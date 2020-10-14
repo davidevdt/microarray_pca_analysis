@@ -7,8 +7,8 @@ To achieve that, we perform PCA regression where Sparse PCA (```elasticnet``` pa
 ## Running the Analysis 
 The analysis was carried out with R 3.5.0. Some of the datasets are alread included in the folder DATA. To replicate the analysis, perform the following operations: 
 
-1. Clone the repository in a directory <DIRECTORY>
-2. Open R and set the working directory as <DIRECTORY>
+1. Clone the repository in a directory ```<DIRECTORY>```
+2. Open R and set the working directory as ```<DIRECTORY>```
 3. Launch the script "1. upload_and_prepocess_data.R" to upload the remaining datasets and obtain the gene symbols
 4. Launch the script "2. analysis.R" to perform model selection and observe results of the analysis 
 
