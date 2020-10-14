@@ -16,5 +16,5 @@ Points (3) and (4) (especially the model selection step of the Sparse PCA model)
 
 
 ## References 
-[1] Nakaya HI, Wrammert J, Lee EK, Racioppi L, Marie-Kunze S, et al. Systems biology of vaccination for seasonal influenza in humans. Nature immunology. 2011;12(8):786–95. https://doi.org/10.1038/ni.2067. <br/>
+[1] Nakaya HI, Wrammert J, Lee EK, Racioppi L, Marie-Kunze S, et al. Systems biology of vaccination for seasonal influenza in humans. Nature immunology. 2011;12(8):786–95. https://doi.org/10.1038/ni.2067. <br/><br/>
 [2] Van Deun K, Crompvoets EAV, Ceulemans E. Obtaining insights from high-dimensional data: Sparse Principal Covariates Regression. BMC Bioinformatics. 2018; 19(104). https://doi.org/10.1186/s12859-018-2114-5  
