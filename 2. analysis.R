@@ -478,7 +478,7 @@ names(Z_bpca) = c("Component_1", "Component_2")
 # Linear Model with Z_bpca 
 # --------------------------------------------------------------------------
 mod_bpca_2007 <- lm(Y ~ ., data.frame(Y = y, Component_1 = Z_bpca$Component_1, Component_2 = Z_bpca$Component_2))
-summary(mod_bpca_2007)
+# summary(mod_bpca_2007)
 
 # --------------------------------------------------------------------------
 # Create predictor matrix for Sparse PCA
@@ -492,7 +492,7 @@ names(Z_spca) = c("Component_1", "Component_2")
 # Linear Model with Z_spca 
 # --------------------------------------------------------------------------
 mod_spca_2007 <- lm(Y ~ ., data.frame(Y = y, Component_1 = Z_spca$Component_1, Component_2 = Z_spca$Component_2))
-summary(mod_spca_2007)
+# summary(mod_spca_2007)
 
 # --------------------------------------------------------------------------
 # R^2 for the two models 
